@@ -7,7 +7,7 @@
     "dev": "pnpm --filter play dev",
     "docs:dev": "pnpm --filter docs dev",
     "docs:build": "pnpm --filter docs build",
-    "test": "echo 'todo"
+    "test": "echo 'todo'"
   },
   "keywords": [],
   "author": "",
